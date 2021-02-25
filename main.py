@@ -6,4 +6,4 @@ def calendar(c):
     return p + "is not a planet"
 
 months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
-print (calander("January"))
+print (calendar("January"))
